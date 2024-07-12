@@ -42,9 +42,8 @@ Clean architecture in a Flutter project ensures that the application's design is
  > The get_it package in Flutter is a simple and efficient service locator that helps manage dependencies and implement dependency injection in your Flutter projects. This package allows you to register and retrieve instances of your classes, promoting loose coupling and making your code more modular, testable, and maintainable.
 ---
 
-## Localization
+## Localization (Easy Localization | intl)
 | Arabic | English |
 | ---    | ---     |
 | ![image](https://github.com/user-attachments/assets/7f2d33e9-c73f-46ed-b086-fa50d7b3a10d) | ![image](https://github.com/user-attachments/assets/303a7537-977d-4c40-8440-0162dde30c37) |
-
-
+> Localization in a Flutter project is essential for creating a multilingual application that can cater to users from different linguistic backgrounds. In this context, adding Arabic and English localizations is a common requirement for apps targeting both native Arabic speakers and English-speaking users. 
