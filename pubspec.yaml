@@ -1,0 +1,78 @@
+name: movies_database_flutter
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  flutter_bloc: ^8.1.6
+  bloc: ^8.1.4
+
+  # Utilities
+  shared_preferences: ^2.2.3
+  flutter_screenutil: ^5.9.3
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+  url_launcher: ^6.3.0
+
+  # Dependency Injection
+  get_it: ^7.7.0
+
+  # Network Calls
+  dio: ^5.5.0+1
+
+  # Localization
+  easy_localization: ^3.0.7
+  intl: ^0.19.0
+
+  # UI Elements
+  flutter_svg: ^2.0.10+1
+  animate_do: ^3.3.4
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  lottie: ^3.1.2
+  glass_kit: ^4.0.1
+  day_night_switcher: ^0.2.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/icons/
+    - assets/images/
+    - assets/translations/
+    - assets/lottie/
+
+
+  fonts:
+    - family: Avenir
+      fonts:
+        - asset: assets/fonts/AvenirLTStd-Black.otf
+        - asset: assets/fonts/AvenirLTStd-BlackOblique.otf
+        - asset: assets/fonts/AvenirLTStd-Book.otf
+        - asset: assets/fonts/AvenirLTStd-BookOblique.otf
+        - asset: assets/fonts/AvenirLTStd-Heavy.otf
+        - asset: assets/fonts/AvenirLTStd-HeavyOblique.otf
+        - asset: assets/fonts/AvenirLTStd-Light.otf
+        - asset: assets/fonts/AvenirLTStd-LightOblique.otf
+        - asset: assets/fonts/AvenirLTStd-Medium.otf
+        - asset: assets/fonts/AvenirLTStd-MediumOblique.otf
+        - asset: assets/fonts/AvenirLTStd-Oblique.otf
+        - asset: assets/fonts/AvenirLTStd-Roman.otf

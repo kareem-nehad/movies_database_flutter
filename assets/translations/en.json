@@ -1,0 +1,16 @@
+{
+  "moviesScreen": {
+    "moviesDatabase": "Movies Database",
+    "search": "Search for a movie.."
+  },
+  "movieDetails": {
+    "releaseDate": "Release Date: ",
+    "overview": "Overview",
+    "bookNow": "Book now",
+    "otherPopular": "Other Popular Movies"
+  },
+  "drawer": {
+    "changeTheme": "Change theme",
+    "contactUs": "Contact us"
+  }
+}

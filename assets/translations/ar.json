@@ -1,0 +1,16 @@
+{
+  "moviesScreen": {
+    "moviesDatabase": "مكتبة الافلام",
+    "search": "ابحث عن فيلم.."
+  },
+  "movieDetails": {
+    "releaseDate": "تاريخ الاصدار: ",
+    "overview": "نظرة عامة",
+    "bookNow": "احجز الان",
+    "otherPopular": "افلام مفضلة اخرى"
+  },
+  "drawer": {
+    "changeTheme": "تغيير النمط",
+    "contactUs": "اتصل بنا"
+  }
+}
