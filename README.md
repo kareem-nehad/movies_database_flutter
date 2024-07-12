@@ -40,4 +40,11 @@ Clean architecture in a Flutter project ensures that the application's design is
 ## Dependency Injection (get_it)
  ![image](https://github.com/user-attachments/assets/2dd6cb7c-ed6c-49b7-92c7-b0546c493ee0)
  > The get_it package in Flutter is a simple and efficient service locator that helps manage dependencies and implement dependency injection in your Flutter projects. This package allows you to register and retrieve instances of your classes, promoting loose coupling and making your code more modular, testable, and maintainable.
+---
+
+## Localization
+| Arabic | English |
+| ---    | ---     |
+| ![image](https://github.com/user-attachments/assets/7f2d33e9-c73f-46ed-b086-fa50d7b3a10d) | ![image](https://github.com/user-attachments/assets/303a7537-977d-4c40-8440-0162dde30c37) |
+
 
