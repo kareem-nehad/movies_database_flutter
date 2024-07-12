@@ -1,7 +1,3 @@
-
-https://github.com/user-attachments/assets/5a5fa5fe-15e7-4846-9690-b3d034ff0b38
-
-https://github.com/user-attachments/assets/adeff88b-bbbc-4214-ab62-991526ce62dc
 # Movies Database
 
 The Movies Database project aims to create a comprehensive, user-friendly, and accessible online repository of movie information. This database will serve as a central hub for movie enthusiasts, researchers, and industry professionals to access detailed information about films from various genres, eras, and regions. The database will include metadata such as cast and crew details, release dates, synopses, genres, ratings, reviews, trailers, and related media.
@@ -10,7 +6,7 @@ The Movies Database project aims to create a comprehensive, user-friendly, and a
 
 | Splash Screen | Movies Screen | Movie Details Screen |
 | ---           | ---           | ---                     |
-| ![WhatsApp Image 2024-07-12 at 18 00 05_7c8351cc](https://github.com/user-attachments/assets/26ddc558-f274-4f16-8db1-db799ab7a351) | ![WhatsApp Image 2024-07-12 at 18 00 04_ed523b1f](https://github.com/user-attachments/assets/a82a6641-5434-4517-8741-415f0f838abd) | https://github.com/user-attachments/assets/b7eeda24-acf8-45af-afc9-4c81fec60b74 |
+| ![WhatsApp Image 2024-07-12 at 18 00 05_7c8351cc](https://github.com/user-attachments/assets/26ddc558-f274-4f16-8db1-db799ab7a351) | ![WhatsApp Image 2024-07-12 at 18 00 04_ed523b1f](https://github.com/user-attachments/assets/a82a6641-5434-4517-8741-415f0f838abd) | ![WhatsApp Video 2024-07-12 at 18 00 05_30c549b1](https://github.com/user-attachments/assets/ea3c5b08-4bf5-4d69-9a82-a97b41119c8f) |
 
 | Home Drawer | Search Sheet |
 | ---         | ---          |
@@ -21,7 +17,7 @@ The Movies Database project aims to create a comprehensive, user-friendly, and a
 
 | Splash Screen | Movies Screen | Movie Details Screen |
 | ---           | ---           | ---                  |
-| ![WhatsApp Image 2024-07-12 at 18 00 05_14a80658](https://github.com/user-attachments/assets/6c117888-06c4-4943-b5f7-4f214454e529) | ![WhatsApp Image 2024-07-12 at 17 59 54_50d6c5a7](https://github.com/user-attachments/assets/0439726d-1784-43ea-9699-9863800affe2) | https://github.com/user-attachments/assets/1d68045a-9dfe-40be-a5b1-04796399146c |
+| ![WhatsApp Image 2024-07-12 at 18 00 05_14a80658](https://github.com/user-attachments/assets/6c117888-06c4-4943-b5f7-4f214454e529) | ![WhatsApp Image 2024-07-12 at 17 59 54_50d6c5a7](https://github.com/user-attachments/assets/0439726d-1784-43ea-9699-9863800affe2) |  ![WhatsApp Video 2024-07-12 at 18 00 01_a685126a (1)](https://github.com/user-attachments/assets/0a701a99-7774-429a-ae04-d01fcf3358ed) |
 
 | Home Drawer | Search Sheet |
 | ---         | ---          |
