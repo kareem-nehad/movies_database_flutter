@@ -12,8 +12,6 @@ mixin ServiceLocator {
     // Blocs
     instance.registerFactory(() => MoviesBloc(instance()));
 
-    // Cubits
-
     // Usecases
     instance.registerLazySingleton(() => GetPopularMoviesUseCase(instance()));
 

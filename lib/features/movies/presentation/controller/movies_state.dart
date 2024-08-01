@@ -11,6 +11,7 @@ class MoviesState extends Equatable {
   final SearchState searchState;
   final String searchMessage;
 
+
   const MoviesState({
     this.popularMovies = const [],
     this.popularState = RequestState.loading,
@@ -19,6 +20,8 @@ class MoviesState extends Equatable {
     this.searchState = SearchState.awaiting,
     this.searchMessage = '',
   });
+
+
 
   MoviesState copyWith({
     List<Movie>? popularMovies,
@@ -40,4 +43,5 @@ class MoviesState extends Equatable {
 
   @override
   List<Object> get props => [popularMovies, popularState, popularMessage, allMovies, searchState, searchMessage,];
+
 }

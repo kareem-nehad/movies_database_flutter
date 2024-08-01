@@ -76,6 +76,9 @@ class OtherPopularMoviesGrid extends StatelessWidget {
                   arguments.otherPopularMovies[index].title!,
                   softWrap: true,
                   textAlign: TextAlign.center,
+                  style: const TextStyle(
+                    color: Colors.white
+                  ),
                 ),
               ),
             ],
