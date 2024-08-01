@@ -1,4 +1,5 @@
 import 'package:dartz/dartz.dart';
+import 'package:injectable/injectable.dart';
 import 'package:movies_database_flutter/core/error/failure.dart';
 import 'package:movies_database_flutter/features/movies/domain/entities/movie.dart';
 

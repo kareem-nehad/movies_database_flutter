@@ -1,12 +1,14 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
+import 'package:injectable/injectable.dart';
 import 'package:movies_database_flutter/core/utilities/enums.dart';
 import 'package:movies_database_flutter/features/movies/domain/usecases/get_popular_movies.dart';
 
 import 'movies_event.dart';
 import 'movies_state.dart';
 
+@injectable
 class MoviesBloc extends Bloc<MoviesEvent, MoviesState> {
   final GetPopularMoviesUseCase getPopularUseCase;
 

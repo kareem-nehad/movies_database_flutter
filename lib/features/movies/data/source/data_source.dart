@@ -1,4 +1,5 @@
 import 'package:dio/dio.dart';
+import 'package:injectable/injectable.dart';
 import 'package:movies_database_flutter/core/error/exception.dart';
 import 'package:movies_database_flutter/core/network/error_message_model.dart';
 import 'package:movies_database_flutter/core/utilities/app_constants.dart';
@@ -9,6 +10,7 @@ abstract class BaseMovieDataSource {
   Future<List<MovieModel>> searchPopularMovies(String query);
 }
 
+@LazySingleton(as: BaseMovieDataSource)
 class MovieDataSource extends BaseMovieDataSource {
   @override
   Future<List<MovieModel>> getPopularMovies() async {

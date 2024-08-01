@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       builder: (_, builder) {
         return MultiBlocProvider(
           providers: [
-            BlocProvider(create: (_) => ServiceLocator.instance<MoviesBloc>()),
+            BlocProvider(create: (_) => getIt<MoviesBloc>()),
           ],
           child: MaterialApp(
             localizationsDelegates: context.localizationDelegates,

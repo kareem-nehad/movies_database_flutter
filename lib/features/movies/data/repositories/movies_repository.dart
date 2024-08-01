@@ -1,10 +1,12 @@
 import 'package:dartz/dartz.dart';
+import 'package:injectable/injectable.dart';
 import 'package:movies_database_flutter/core/error/exception.dart';
 import 'package:movies_database_flutter/core/error/failure.dart';
 import 'package:movies_database_flutter/features/movies/domain/entities/movie.dart';
 import 'package:movies_database_flutter/features/movies/domain/repositories/base_movies_repository.dart';
 import 'package:movies_database_flutter/features/movies/data/source/data_source.dart';
 
+@LazySingleton(as: BaseMoviesRepository)
 class MoviesRepository extends BaseMoviesRepository {
   final BaseMovieDataSource baseMovieRemoteDataSource;
 

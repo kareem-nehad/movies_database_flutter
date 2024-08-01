@@ -13,7 +13,8 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await EasyLocalization.ensureInitialized();
   await ScreenUtil.ensureScreenSize();
-  await ServiceLocator.init();
+  // await ServiceLocator.init();
+  configureDependencies();
   await AppPreferences.init();
   runApp(
     EasyLocalization(
